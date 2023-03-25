@@ -15,7 +15,7 @@ EN BLOQUE
 
 // const pi = 3.14
 
-let nombre = prompt("Ingrese su nombre")
-let apellido = prompt("Ingrese su apellido")
-let resultado = "¡Hola " + nombre + " " + apellido + "!"
-alert(resultado)
+// let nombre = prompt("Ingrese su nombre")
+// let apellido = prompt("Ingrese su apellido")
+// let resultado = "¡Hola " + nombre + " " + apellido + "!"
+// alert(resultado)
